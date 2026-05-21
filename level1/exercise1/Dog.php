@@ -7,3 +7,5 @@ class Dog extends Animal {
         return "GUAU GUAU";
     }
 }
+
+?>
