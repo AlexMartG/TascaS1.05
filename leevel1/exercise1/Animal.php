@@ -13,3 +13,5 @@ abstract class Animal implements AnimalSound {
         return $this->name;
     }
 }
+
+?>
